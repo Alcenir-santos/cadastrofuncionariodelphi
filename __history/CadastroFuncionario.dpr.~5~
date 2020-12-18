@@ -1,0 +1,17 @@
+program CadastroFuncionario;
+
+uses
+  Vcl.Forms,
+  Pincipal in 'Views\Pincipal.pas' {frmPricipal},
+  perfil in 'Views\perfil.pas' {frmPerfil},
+  cadastro in 'Views\cadastro.pas' {frmCadastro};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPricipal, frmPricipal);
+  Application.CreateForm(TfrmCadastro, frmCadastro);
+  Application.Run;
+end.

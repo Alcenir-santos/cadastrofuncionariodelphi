@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/16 21:00:14.000.077,=D:\Alcenir\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/16 21:01:36.000.540,D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Views\Pincipal.dfm=D:\Alcenir\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/12/16 21:01:36.000.540,D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Views\Pincipal.pas=D:\Alcenir\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/16 21:02:17.000.785,D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\CadastroFuncionario.dproj=D:\Alcenir\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/12/17 18:54:56.000.492,=D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/12/17 18:57:32.000.955,D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Unit2.dfm=D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Views\perfil.dfm</Transaction>
+    <Transaction>2020/12/17 18:57:32.000.955,D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Unit2.pas=D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Views\perfil.pas</Transaction>
+    <Transaction>2020/12/17 20:05:41.502,=D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/12/17 20:05:54.033,D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Views\cadastro.dfm=D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Unit2.dfm</Transaction>
+    <Transaction>2020/12/17 20:05:54.033,D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Views\cadastro.pas=D:\Alcenir\Desktop\Teste Atual Sistemas\Delphi\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
